@@ -36,13 +36,13 @@ Each model receives **72 observations (12 hours)** of multivariate weather data 
 
 ### Sequence models
 
-![Jena Climate test MAE](results/figures/time_series_test_mae.png)
+![Jena Climate test MAE](results/figures/time_series_test_mae.svg)
 
-![Jena Climate test RMSE](results/figures/time_series_test_rmse.png)
+![Jena Climate test RMSE](results/figures/time_series_test_rmse.svg)
 
 ### CNNs
 
-![CNN test accuracy](results/figures/cnn_test_accuracy.png)
+![CNN test accuracy](results/figures/cnn_test_accuracy.svg)
 
 ## Methodology
 
