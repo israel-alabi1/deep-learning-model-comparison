@@ -1,3 +1,4 @@
+[![Python package](https://github.com/israel-alabi1/deep-learning-model-comparison/actions/workflows/python-package.yml/badge.svg)](https://github.com/israel-alabi1/deep-learning-model-comparison/actions/workflows/python-package.yml)
 # Deep Learning Model Comparison
 
 A reproducible portfolio study comparing neural-network architectures for **multivariate time-series forecasting** and **image classification**. The project revisits a deep-learning assignment with controlled experiments, reusable Python modules, explicit evaluation, and documented limitations.
