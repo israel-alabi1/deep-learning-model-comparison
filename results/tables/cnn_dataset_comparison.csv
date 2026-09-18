@@ -1,0 +1,4 @@
+Dataset,Test Accuracy,Correct / Total,Architecture
+MNIST,0.9899,9899/10000,Baseline CNN
+CIFAR-10,0.6734,6734/10000,Baseline CNN
+Chairs vs Shoes,0.8750,7/8,Augmented 3-block CNN
